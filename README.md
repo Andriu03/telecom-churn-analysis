@@ -85,5 +85,5 @@ Durante este proyecto se fortalecieron habilidades en:
 
 ## Estructura del Repositorio
 
-- `TelecomX_Churn.ipynb` → Notebook con el análisis completo.
+- `telecom.ipynb` → Notebook con el análisis completo.
 - `README.md` → Documentación del proyecto.
